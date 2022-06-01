@@ -38,13 +38,6 @@ list-style: none;
 .u-logo-image{
 border-radius: 10px;
 }
-.u-social-facebook{
-    float: left;
-    margin-right: -400px;
-    
-}
-.u-social-linkedin{
-    float: right;
-    margin-left: -2000px;
-
+.u-text-1{
+    margin-bottom: 30px;
 }
