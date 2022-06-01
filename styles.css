@@ -1,0 +1,50 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+list-style: none;
+}
+.list a :hover{
+    color: mediumblue;
+}
+
+.u-nav{
+    display: flex;
+    flex-direction:row;
+    float: right;
+
+    margin:auto 40px;
+    margin-right: -30px;
+    
+}
+#menu-hamburger{
+    color: blue;
+}
+.u-logo-image-2{
+     padding: 30px;
+    margin-top: 20px;
+    height: 30vh;
+    margin-bottom: -30px;
+    border-radius: 30px;
+}
+.header{
+    display: flex;
+    margin-top: -40px;
+    margin-left: 80px;
+}
+.u-text{
+    padding: 50px;
+}
+.u-logo-image{
+border-radius: 10px;
+}
+.u-social-facebook{
+    float: left;
+    margin-right: -400px;
+    
+}
+.u-social-linkedin{
+    float: right;
+    margin-left: -2000px;
+
+}
